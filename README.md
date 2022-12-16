@@ -1,6 +1,3 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
 # Data_Analyst
 
 # [Project 1: Ebola World Health Organization data](https://github.com/dostoy25/Data-analysis-projects)
